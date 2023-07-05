@@ -9,8 +9,8 @@ Data contains 3 tables:
     DateKey, ProductKey, UnitCost.
 ## In Report:  
 1. Stacked Bar Chart.
-2. Donut Chart( for productKey with: color, Style, Class)  
-3. Tooltip
-4. Some calculations
-5. Table data by drill throught
+2. Donut Chart(for productKey with: color, Style, Class), using Drill up and down.
+3. Tooltip.
+4. Some calculations.
+5. Table data by drill throught.
 6. Main Page contains buttons for Report and Table data.
