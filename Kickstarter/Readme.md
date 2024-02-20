@@ -1,5 +1,5 @@
 # Kickstarter Dashboard
-![logo]()
+![logo](https://github.com/sohilamohey/Power-BI-Projects/blob/main/Kickstarter/Kickstarter.png)
 ## Data Sourse: https://www.kaggle.com/kemical/kickstarter-projects
 ### Steps:
 1. Append data of 2016 and 2018 (csv files)together
